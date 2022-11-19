@@ -1,0 +1,141 @@
+.top-1 {
+    background: #014e56;
+  }
+  
+  .top-2 {
+    width: 1140px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 165px 129px 165px;
+  }
+  
+  .top-3 {
+    margin-top: 45px;
+  }
+  
+  .top-5 {
+    margin-top: 25px;
+    margin-left: 80px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .top-4 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #ffffff;
+  }
+  .top-4:nth-child(1) {
+    margin-right: 40px;
+  }
+  
+  .top-6 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #ffffff;
+    display: inline-block;
+    margin-top: 30px;
+    border: 2px solid #ffffff;
+    border-radius: 24px;
+    padding: 9px 32px 11px 33px;
+  }
+  .top-6:hover {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #002529;
+    display: inline-block;
+    margin-top: 30px;
+    background: #ffffff;
+  
+    border-radius: 24px;
+    padding: 9px 32px 11px 33px;
+  }
+  .top-6:active {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #002529;
+    display: inline-block;
+    margin-top: 30px;
+    border: 2px solid #002529;
+    background: #012f34;
+    border-radius: 24px;
+    padding: 9px 32px 11px 33px;
+  }
+  
+  .top-7 {
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  .under-line {
+    border: 1px solid black;
+    width: 50px;
+    height: 4px;
+    background: #79c8c7;
+    margin-bottom: 79px;
+  }
+  .normal-2 {
+    display: flex;
+    align-items: center;
+  
+    margin: 0px 165px 250px 165px;
+    width: 1110px;
+    height: 200px;
+  }
+  .under-helper {
+    width: 445px;
+    height: 195px;
+  }
+  .normal-3 {
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 100px;
+  
+    color: #ffffff;
+  }
+  .normal-3-1 {
+    width: 635px;
+    height: 200px;
+    margin-right: 30px;
+  }
+  
+  .school {
+    color: #f67e7e;
+  }
+  
+  .normal-4 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #ffffff;
+    width: 445px;
+    height: 112px;
+    position: absolute;
+  }
+  .bg-img {
+    position: absolute;
+    width: 358px;
+    height: 200px;
+    left: 1105px;
+    top: 600px;
+  }
+  .bg-image {
+    background-image: url(../../img/rasm-1234.svg);
+    background-repeat: no-repeat;
+  }
+  .img {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: -100px;
+    top: 250px;
+  }
+  .image {
+    background-image: url(../../img/круглий-колобок.png);
+    background-repeat: no-repeat;
+  }

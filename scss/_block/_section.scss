@@ -1,0 +1,93 @@
+.section-main {
+    position: relative;
+    background: #012f34;
+  }
+  .section-major {
+    padding: 137px 180px 143px 150px;
+    width: 1110px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .line {
+    width: 50px;
+    height: 4px;
+    background: #f67e7e;
+    margin-bottom: 54px;
+  }
+  .section-left {
+    width: 445px;
+    height: 144px;
+    margin-right: 125px;
+  
+    font-family: "Livvic";
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 48px;
+    color: #ffffff;
+  }
+  .inner-list {
+    height: 28px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    color: #f67e7e;
+    margin-bottom: 16px;
+  }
+  
+  .obshiy {
+    display: flex;
+    flex-direction: column;
+  }
+  .inner-text {
+    width: 445px;
+    height: 50px;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 25px;
+    color: #ffffff;
+    opacity: 0.8;
+  }
+  .inner-img {
+    width: 72px;
+    height: 72px;
+    margin-right: 23px;
+  }
+  .inner-image {
+    background-image: url(../../img/Group1222331313121132338989898198379319793.svg);
+  }
+  .main-inner {
+    display: flex;
+    align-items: center;
+    margin-bottom: 32px;
+  }
+  .suc-1 {
+    width: 72px;
+    height: 72px;
+    margin-right: 23px;
+  }
+  .suc-2 {
+    background-image: url(../../img/boltik.svg);
+  }
+  .suc-3 {
+    width: 72px;
+    height: 72px;
+    margin-right: 23px;
+  }
+  .suc-4 {
+    background-image: url(../../img/invest.svg);
+  }
+  .suc-5 {
+    position: absolute;
+    width: 200px;
+    height: 244px;
+    
+    right: -100px;
+    top: 455px;
+    width: 200px;
+    height: 244px;
+  }
+  .suc-6 {
+    background-image: url(../../img/around-pop.png);
+  }
+  
